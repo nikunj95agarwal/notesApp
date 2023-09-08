@@ -1,4 +1,7 @@
+html{ font-size: 64.5%;}
 body{background: url(https://i.makeagif.com/media/7-12-2022/5j1gUS.gif);
     background-repeat: no-repeat;
     background-size:cover ;
+    height: 300rem;
+    width: 100rem;
 }
