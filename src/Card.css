@@ -1,0 +1,71 @@
+/* Global Styles */
+html {
+    font-size: 64.5%;
+  }
+  /* body{background-color: #f6f6f6;} */
+  
+  /* Cards */
+  .cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    display: inline-block;
+    margin-top: 4rem;
+  }
+  
+  .card {
+    color: rgb(176, 36, 113);
+    background: url(https://gifdb.com/images/high/black-drip-on-white-background-hp2q188n7cnjeqiz.gif);
+    background-repeat:no-repeat ;
+    background-size:cover ;
+    width: 30rem;
+    height: 40rem;
+    border: 0.1rem solid black;
+    margin: 3.3rem;
+    border-radius: 2rem;
+    background-color: #fff;
+    box-shadow: 1rem 1rem 1rem rgba(0, 0, 0, 0.7);
+    flex-direction: column;
+    display: inline-block;
+  }
+  
+  .card_image {
+    width: 30rem;
+    height: 23rem;
+    border-top-left-radius: 1.9rem;
+    border-top-right-radius: 1.9rem;
+    border-bottom: 2px solid black;
+  }
+  
+  .card_name {
+    font-size: 2.5rem;
+  }
+  
+  .card_info {
+    display: grid;
+    justify-content: center;
+  }
+  
+.watch_btn {
+    margin-left: auto;
+    margin-right: auto;
+    size: 5rem;
+    height: 4rem;
+    width: 10rem;
+    border: 0.2rem solid black;
+    box-shadow: 0rem 1rem 1rem rgba(0, 0, 0, 0.9);
+    color: #0B666A;
+    background-color: #FFD9C0;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.watch_btn:hover {
+  background-color: #FBBE9F; /* Change to a slightly different color on hover */
+  box-shadow: 0rem 1.5rem 1.5rem rgba(0, 0, 0, 0.9); /* Increase the box shadow on hover */
+  color: #f45e30;
+  transition: background-color 1s,box-shadow 1s;
+cursor: pointer;
+}
