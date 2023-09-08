@@ -4,8 +4,8 @@ html{ font-size: 64.5%;}
     padding: 0;
 }
 body{background: url(https://images.saymedia-content.com/.image/t_share/MTkzOTUzODU0MDkyODc5MzY1/particlesjs-examples.gif);
-    background-repeat: no-repeat;
-    /* background-size:cover ; */
-    background-size: 200%;
+    /* background-repeat: no-repeat; */
+    background-size:cover ;
+    background-size: 200rem;
     /* width: 100rem; */
 }
