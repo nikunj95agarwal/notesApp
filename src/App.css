@@ -3,9 +3,9 @@ html{ font-size: 64.5%;}
     margin: 0;
     padding: 0;
 }
-body{background: url(https://i.makeagif.com/media/7-12-2022/5j1gUS.gif);
+body{background: url(https://images.saymedia-content.com/.image/t_share/MTkzOTUzODU0MDkyODc5MzY1/particlesjs-examples.gif);
     background-repeat: no-repeat;
-    background-size:cover ;
-    height: 200rem;
+    /* background-size:cover ; */
+    background-size: 200%;
     /* width: 100rem; */
 }
