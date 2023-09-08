@@ -1,13 +1,15 @@
 /* Upload.css */
-
+html{
+  font-size: 64.5%;
+}
 .upload-container {
     text-align: center;
-    margin: 20px;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    margin: 2.0rem;
+    padding: 2.0rem;
+    border: .1rem solid #ccc;
+    border-radius: .5rem;
     background-color: #f9f9f9;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 1.0rem rgba(0, 0, 0, 0.1);
   }
   /* Upload.css */
 
@@ -16,8 +18,8 @@
     display: inline-block;
     background-color: #007bff;
     color: #fff;
-    padding: 15px 20px; /* Adjust the padding for equal height */
-    border-radius: 5px;
+    padding: 1.5rem 2.0rem; /* Adjust the padding for equal height */
+    border-radius: .5rem;
     cursor: pointer;
   }
   
@@ -25,11 +27,11 @@
     
     background-color: #007bff;
     color: #fff;
-    padding: 15px 20px; /* Adjust the padding for equal height */
+    padding: 1.5rem 2.0rem; /* Adjust the padding for equal height */
     border: none;
-    border-radius: 5px;
+    border-radius: .5rem;
     cursor: pointer;
-    /* margin-top: 10px; */
+    /* margin-top: 1.0rem; */
   }
   
   .upload-button:hover {
@@ -39,11 +41,11 @@
   .remove-button {
     background-color: #ff3333;
     color: #fff;
-    padding: 15px 20px; /* Adjust the padding for equal height */
+    padding: 1.5rem 2.0rem; /* Adjust the padding for equal height */
     border: none;
-    border-radius: 5px;
+    border-radius: .5rem;
     cursor: pointer;
-    margin-top: 10px;
+    margin-top: 1.0rem;
   }
   
   .remove-button:hover {
@@ -59,12 +61,12 @@
 
 .upload-container {
     text-align: center;
-    margin: 20px;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    margin: 2.0rem;
+    padding: 2.0rem;
+    border: .1rem solid #ccc;
+    border-radius: .5rem;
     background-color: #f9f9f9;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 1.0rem rgba(0, 0, 0, 0.1);
   }
   /* Upload.css */
 
@@ -73,8 +75,8 @@
     display: inline-block;
     background-color: #007bff;
     color: #fff;
-    padding: 15px 20px; /* Adjust the padding for equal height */
-    border-radius: 5px;
+    padding: 1.5rem 2.0rem; /* Adjust the padding for equal height */
+    border-radius: .5rem;
     cursor: pointer;
   }
   
@@ -83,8 +85,8 @@
      display: inline-block;
     background-color: #007bff;
     color: #fff;
-    padding: 13px 20px; /* Adjust the padding for equal height */
-    border-radius: 5px;
+    padding: 1.3rem 2.0rem; /* Adjust the padding for equal height */
+    border-radius: .5rem;
     cursor: pointer;
   }
   
@@ -95,11 +97,11 @@
   .remove-button {
     background-color: #ff3333;
     color: #fff;
-    padding: 15px 20px; /* Adjust the padding for equal height */
+    padding: 1.5rem 2.0rem; /* Adjust the padding for equal height */
     border: none;
-    border-radius: 5px;
+    border-radius: .5rem;
     cursor: pointer;
-    margin-top: 10px;
+    margin-top: 1.0rem;
   }
   
   .remove-button:hover {
